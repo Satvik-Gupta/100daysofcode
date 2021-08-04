@@ -1,7 +1,7 @@
 # 100daysofcode
 **Satvik Gupta**
 
-*Second year CSE, Indian Institute Of Information Technology Kota*
+*final year CSE, Indian Institute Of Information Technology Kota*
 
 ---
 
